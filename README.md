@@ -1,3 +1,5 @@
+**Live Demo:** https://documind-ai-varshanth.streamlit.app
+
 # DocuMind AI - RAG Document Chatbot
 
 A beginner-friendly **Retrieval-Augmented Generation (RAG)** application built with Python.
